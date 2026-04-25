@@ -3,7 +3,7 @@
 This project is a Next.js (App Router) clone of the [Accredian Enterprise](https://enterprise.accredian.com/) landing page, built as an assignment submission.
 
 ## 🚀 Live Demo
-**[Vercel Deployment URL]** (Replace with your actual Vercel URL)
+**[Live Demo](https://accerdian-ten.vercel.app/)**
 
 ## 📋 Project Overview
 A fully responsive, modern web application that recreates the UI, layout, and functionality of the Accredian Enterprise website. Built with Next.js 16, Tailwind CSS v4, and React Hooks.
